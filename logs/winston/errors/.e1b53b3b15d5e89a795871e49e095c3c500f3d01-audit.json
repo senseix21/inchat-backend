@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\senseiX\\Dev\\Projects\\inchat-backend\\logs\\winston\\errors\\.e1b53b3b15d5e89a795871e49e095c3c500f3d01-audit.json",
+    "files": [
+        {
+            "date": 1692963540105,
+            "name": "C:\\Users\\senseiX\\Dev\\Projects\\inchat-backend\\logs\\winston\\errors\\phu-2023-25-08-12-error.log",
+            "hash": "daf5be187c12e2679116776ff7c489f6beea99e4e1b4fde3bff401f20ed48a81"
+        }
+    ],
+    "hashType": "sha256"
+}
